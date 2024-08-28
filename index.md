@@ -6,3 +6,10 @@
 ###### Header 6
 
 ![picture of whatever](frame.png)
+
+
+```python
+a=25
+b= a*4
+print(b)
+```
