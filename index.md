@@ -13,3 +13,7 @@ a=25
 b= a*4
 print(b)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
